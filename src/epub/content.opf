@@ -40,22 +40,31 @@
 		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of poems by Ring Lardner.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/ring-lardner"&gt;Ring Lardner&lt;/a&gt; was one of the most prolific humorists of the early 20th century. His unique writing style, especially for dialogue, inspired some of the most famous American authors in history, such as &lt;a href="https://standardebooks.org/ebooks/f-scott-fitzgerald"&gt;F. Scott Fitzgerald&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/ernest-hemingway"&gt;Ernest Hemingway&lt;/a&gt;, and &lt;a href="https://standardebooks.org/ebooks/virginia-woolf"&gt;Virginia Woolf&lt;/a&gt;. His unique corpus spans nearly every form of writing imaginable: short fiction, poetry, and even journalism.&lt;/p&gt;
-			&lt;p&gt;Lardner was most famous for the frequent appearances of his short fiction in numerous popular magazines of the era, most commonly The Saturday Evening Post. However, Lardner was also a prolific writer of poetry. He wrote a daily column for the &lt;i&gt;Chicago Tribune&lt;/i&gt; entitiled “In the Wake of the News” which was generally a sports news column but oftentimes served as his platform to publish his poetry. Many of his more sentimental poems from this column, the ones written about his children, would later be compiled in &lt;i&gt;Bib Ballads&lt;/i&gt;. Lardner’s second poetry compilation, &lt;i&gt;Regular Fellows I Have Met&lt;/i&gt; is a series of nearly 200 poems about, as the title suggests, Lardner’s friends and colleagues—some of whom would go on to become incredibly famous while others were, as the title suggests, regular fellows who Lardner had met who would forever be immortalized through his poetry.&lt;/p&gt;
-			&lt;p&gt;Lardner’s poetry, like his prose, has a unique voice. His sports journalism roots are apparent through his frequent and likely satirical overuse of abbreviations. The verse is always cheerful in tone, one might even say “whimsical.” Though his poems were all written for and published in different media (some in newspapers, some in magazines, some written specifically for book compilation) Lardner brings a consistent voice to his entire poetic corpus.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/ring-lardner"&gt;Ring Lardner&lt;/a&gt; was one of the most prolific humorists of the early 20th century and his writing was popular enough to be released in several commercially successful short story omnibus collections. His distinctive writing style, especially for dialogue, inspired some of the most famous American authors in history, such as &lt;a href="https://standardebooks.org/ebooks/f-scott-fitzgerald"&gt;F. Scott Fitzgerald&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/ernest-hemingway"&gt;Ernest Hemingway&lt;/a&gt;, and &lt;a href="https://standardebooks.org/ebooks/virginia-woolf"&gt;Virginia Woolf&lt;/a&gt;. His diverse corpus spans nearly every form of writing imaginable: short fiction, poetry, and even journalism, with over 100 short stories, dozens of poems, and thousands of newspaper columns.&lt;/p&gt;
+			&lt;p&gt;Lardner was most famous for the frequent appearances of his short fiction in numerous popular magazines of the era, most commonly The Saturday Evening Post. However, Lardner was also a prolific writer of poetry. He wrote a daily column for the &lt;i&gt;Chicago Tribune&lt;/i&gt; entitiled “In the Wake of the News” which was generally a sports news column but oftentimes served as his platform to publish his poetry. Many of his more sentimental poems from this column, the ones written about his children, would later be compiled in &lt;i&gt;Bib Ballads&lt;/i&gt;. Lardner’s second poetry compilation, &lt;i&gt;Regular Fellows I Have Met&lt;/i&gt; is a series of nearly 200 poems about, as the title suggests, Lardner’s friends and colleagues—some of whom would go on to become incredibly famous while others were, as the title suggests, regular fellows whom Lardner had met who would forever be immortalized through his poetry.&lt;/p&gt;
+			&lt;p&gt;Lardner’s poetry, like his prose, has a recognizable voice to any who are familiar with him. His sports journalism roots are made apparent by his frequent and likely satirical overuse of abbreviations. The verse is always cheerful in its rhythm and meter, one might even say “whimsical,” despite the actual text oh his work often including dark gallows humor. Though his poems were all written for and published in different media (some in newspapers, some in magazines, some written specifically for book compilation) Lardner brings a consistent voice to his entire poetic corpus.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
+		<!-- Bib Ballads -->
 		<dc:source>https://www.gutenberg.org/ebooks/25961</dc:source>
-		<dc:source>https://archive.org/details/the-niles-daily-star-1901-06-14-1/</dc:source>
 		<dc:source>https://archive.org/details/cu31924021755669/</dc:source>
+		<!-- Clever Class Poem, pg 2 -->
+		<dc:source>https://archive.org/details/the-niles-daily-star-1901-06-14-1/</dc:source>
+		<!-- Obituary, pg 9 -->
 		<dc:source>https://archive.org/details/per_chicago-daily-tribune_1916-07-22_75_175/</dc:source>
+		<!-- Regular Fellows I Have Met -->
 		<dc:source>https://archive.org/details/bub_gb_HIE2AQAAMAAJ/</dc:source>
+		<!-- An Irish Love Lyric, pg 3 -->
 		<dc:source>https://archive.org/details/st-francis-lobbyist-lardner/</dc:source>
+		<!-- The Deterrioration of Man, The Phantom Sister, pp 82-83 -->
 		<dc:source>https://archive.org/details/sim_cosmopolitan_cosmopolitan_1922-09_73_3/</dc:source>
+		<!-- Apology pg 81 -->
 		<dc:source>https://archive.org/details/sim_cosmopolitan_cosmopolitan_1922-11_73_5/</dc:source>
+		<!-- Home, pg 30 -->
 		<dc:source>https://archive.org/details/sim_cosmopolitan_cosmopolitan_1922-12_73_6/</dc:source>
+		<!-- The Constant Jay, pg 20 -->
 		<dc:source>https://archive.org/details/sim_the-new-yorker_1925-04-18_1_9/</dc:source>
-		<meta property="se:production-notes">"An Irish Love Lyric" was recovered thanks to efforts by the staff at San Francicso Public Library, who provided scans from a bound volume in thier collection. All poems that are public domain and were identified in Matthew J. Bruccoli's "Ring Lardner: A Descriptive Bibliography" and could be located were included in this collection.</meta>
+		<meta property="se:production-notes">"An Irish Love Lyric" was recovered thanks to efforts by the staff at San Francicso Public Library, who provided scans from a bound volume in their collection. All poems that are public domain and were identified in Matthew J. Bruccoli's "Ring Lardner: A Descriptive Bibliography" and could be located were included in this collection.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ring-lardner_poetry</meta>
