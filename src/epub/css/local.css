@@ -1,6 +1,7 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+/* Begin poetry */
 article,
 section{
 	break-after: page;
@@ -34,6 +35,9 @@ p span.i1{
 	text-indent: -1em;
 }
 
+/* End poetry */
+
+/* Begin Letters */
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -42,7 +46,9 @@ footer{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+/* End letters */
 
+/* begin figures */
 figure{
 	break-inside: avoid;
 	margin: 1em 2.5em;
@@ -55,16 +61,21 @@ figure img{
 	max-width: 100%;
 }
 
-#bib-ballads-foreword > blockquote{
-	margin: 1em 0;
-}
+/* end figures */
 
+/* Begin glossary */
 dl{
 	margin: 1em 0;
 }
 
 dd{
 	margin-left: 40px;
+}
+/* end glossary */
+
+/* Custom formatting specific for poems */
+#bib-ballads-foreword > blockquote{
+	margin: 1em 0;
 }
 
 #home [epub|type~="contributors"]{
@@ -74,3 +85,4 @@ dd{
 #home header > p{
 	text-align: center;
 }
+/* end custom formatting for specific poems */
