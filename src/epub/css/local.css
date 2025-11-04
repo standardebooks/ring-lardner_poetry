@@ -67,6 +67,10 @@ dd{
 	margin-left: 40px;
 }
 
-#home > p:first-of-type{
+#home [epub|type~="contributors"]{
+	font-style: italic;
+}
+
+#home header > p{
 	text-align: center;
 }
