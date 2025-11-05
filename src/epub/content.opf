@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/ring-lardner/poetry</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-11-05T20:36:31Z</dc:date>
+		<meta property="dcterms:modified">2025-11-05T20:36:31Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -40,9 +40,8 @@
 		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of poems by Ring Lardner.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/ring-lardner"&gt;Ring Lardner&lt;/a&gt; was one of the most prolific humorists of the early 20th century and his writing was popular enough to be released in several commercially successful short story omnibus collections. His distinctive writing style, especially for dialogue, inspired some of the most famous American authors in history, such as &lt;a href="https://standardebooks.org/ebooks/f-scott-fitzgerald"&gt;F. Scott Fitzgerald&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/ernest-hemingway"&gt;Ernest Hemingway&lt;/a&gt;, and &lt;a href="https://standardebooks.org/ebooks/virginia-woolf"&gt;Virginia Woolf&lt;/a&gt;. His diverse corpus spans nearly every form of writing imaginable: short fiction, poetry, and even journalism, with over 100 short stories, dozens of poems, and thousands of newspaper columns.&lt;/p&gt;
-			&lt;p&gt;Lardner was most famous for the frequent appearances of his short fiction in numerous popular magazines of the era, most commonly The Saturday Evening Post. However, Lardner was also a prolific writer of poetry. He wrote a daily column for the &lt;i&gt;Chicago Tribune&lt;/i&gt; entitiled “In the Wake of the News” which was generally a sports news column but oftentimes served as his platform to publish his poetry. Many of his more sentimental poems from this column, the ones written about his children, would later be compiled in &lt;i&gt;Bib Ballads&lt;/i&gt;. Lardner’s second poetry compilation, &lt;i&gt;Regular Fellows I Have Met&lt;/i&gt; is a series of nearly 200 poems about, as the title suggests, Lardner’s friends and colleagues—some of whom would go on to become incredibly famous while others were, as the title suggests, regular fellows whom Lardner had met who would forever be immortalized through his poetry.&lt;/p&gt;
-			&lt;p&gt;Lardner’s poetry, like his prose, has a recognizable voice to any who are familiar with him. His sports journalism roots are made apparent by his frequent and likely satirical overuse of abbreviations. The verse is always cheerful in its rhythm and meter, one might even say “whimsical,” despite the actual text oh his work often including dark gallows humor. Though his poems were all written for and published in different media (some in newspapers, some in magazines, some written specifically for book compilation) Lardner brings a consistent voice to his entire poetic corpus.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/ring-lardner"&gt;Ring Lardner&lt;/a&gt; was one of the most prolific humorists of the early 20th century. While he was most famous for the frequent appearances of his short fiction in numerous popular magazines of the era, he was also a prolific writer of poetry. His daily column for the &lt;i&gt;Chicago Tribune&lt;/i&gt; entitled “In the Wake of the News” was generally a sports news column, but oftentimes served as a platform to publish his poetry. Many of his more sentimental poems from this column—the ones written about his children—would later be compiled in &lt;i&gt;Bib Ballads&lt;/i&gt;. Lardner’s second poetry compilation, &lt;i&gt;Regular Fellows I Have Met&lt;/i&gt;, is a series of nearly 200 poems about Lardner’s friends and colleagues—some of whom would go on to become incredibly famous, while others remained regular, everyday fellows.&lt;/p&gt;
+			&lt;p&gt;Lardner’s poetry, like his prose, has a recognizable voice. His sports journalism roots are made apparent by his frequent and satirical overuse of abbreviations. The verse is always cheerful, one might even say whimsical, in its rhythm and meter, despite the subjects often including gallows humor. Though his poems were all written for and published in different media like newspapers, magazines, and books, Lardner brings a consistent voice to his entire poetic corpus.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- Bib Ballads -->
@@ -64,9 +63,8 @@
 		<dc:source>https://archive.org/details/sim_cosmopolitan_cosmopolitan_1922-12_73_6/</dc:source>
 		<!-- The Constant Jay, pg 20 -->
 		<dc:source>https://archive.org/details/sim_the-new-yorker_1925-04-18_1_9/</dc:source>
-		<meta property="se:production-notes">"An Irish Love Lyric" was recovered thanks to efforts by the staff at San Francicso Public Library, who provided scans from a bound volume in their collection. All poems that are public domain and were identified in Matthew J. Bruccoli's "Ring Lardner: A Descriptive Bibliography" and could be located were included in this collection.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">12777</meta>
+		<meta property="se:reading-ease.flesch">81.12</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ring-lardner_poetry</meta>
 		<dc:creator id="author">Ring Lardner</dc:creator>
 		<meta property="file-as" refines="#author">Lardner, Ring</meta>
@@ -99,6 +97,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
