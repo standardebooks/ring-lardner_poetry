@@ -64,7 +64,7 @@
 		<!-- The Constant Jay, pg 20 -->
 		<dc:source>https://archive.org/details/sim_the-new-yorker_1925-04-18_1_9/</dc:source>
 		<meta property="se:word-count">12777</meta>
-		<meta property="se:reading-ease.flesch">81.12</meta>
+		<meta property="se:reading-ease.flesch">81.22</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ring-lardner_poetry</meta>
 		<dc:creator id="author">Ring Lardner</dc:creator>
 		<meta property="file-as" refines="#author">Lardner, Ring</meta>
