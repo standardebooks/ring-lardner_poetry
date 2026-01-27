@@ -46,23 +46,23 @@
 		<dc:language>en-US</dc:language>
 		<!-- Bib Ballads -->
 		<dc:source>https://www.gutenberg.org/ebooks/25961</dc:source>
-		<dc:source>https://archive.org/details/cu31924021755669/</dc:source>
+		<dc:source>https://archive.org/details/cu31924021755669</dc:source>
 		<!-- Clever Class Poem, pg 2 -->
-		<dc:source>https://archive.org/details/the-niles-daily-star-1901-06-14-1/</dc:source>
+		<dc:source>https://archive.org/details/the-niles-daily-star-1901-06-14-1</dc:source>
 		<!-- Obituary, pg 9 -->
-		<dc:source>https://archive.org/details/per_chicago-daily-tribune_1916-07-22_75_175/</dc:source>
+		<dc:source>https://archive.org/details/per_chicago-daily-tribune_1916-07-22_75_175</dc:source>
 		<!-- Regular Fellows I Have Met -->
-		<dc:source>https://archive.org/details/bub_gb_HIE2AQAAMAAJ/</dc:source>
+		<dc:source>https://archive.org/details/bub_gb_HIE2AQAAMAAJ</dc:source>
 		<!-- An Irish Love Lyric, pg 3 -->
-		<dc:source>https://archive.org/details/st-francis-lobbyist-lardner/</dc:source>
+		<dc:source>https://archive.org/details/st-francis-lobbyist-lardner</dc:source>
 		<!-- The Deterrioration of Man, The Phantom Sister, pp 82-83 -->
-		<dc:source>https://archive.org/details/sim_cosmopolitan_cosmopolitan_1922-09_73_3/</dc:source>
+		<dc:source>https://archive.org/details/sim_cosmopolitan_cosmopolitan_1922-09_73_3</dc:source>
 		<!-- Apology pg 81 -->
-		<dc:source>https://archive.org/details/sim_cosmopolitan_cosmopolitan_1922-11_73_5/</dc:source>
+		<dc:source>https://archive.org/details/sim_cosmopolitan_cosmopolitan_1922-11_73_5</dc:source>
 		<!-- Home, pg 30 -->
-		<dc:source>https://archive.org/details/sim_cosmopolitan_cosmopolitan_1922-12_73_6/</dc:source>
+		<dc:source>https://archive.org/details/sim_cosmopolitan_cosmopolitan_1922-12_73_6</dc:source>
 		<!-- The Constant Jay, pg 20 -->
-		<dc:source>https://archive.org/details/sim_the-new-yorker_1925-04-18_1_9/</dc:source>
+		<dc:source>https://archive.org/details/sim_the-new-yorker_1925-04-18_1_9</dc:source>
 		<meta property="se:word-count">12258</meta>
 		<meta property="se:reading-ease.flesch">81.22</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ring-lardner_poetry</meta>
