@@ -77,11 +77,9 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="illustrator-1">Al Ford</dc:contributor>
 		<meta property="file-as" refines="#illustrator-1">Ford, Al</meta>
-		<meta property="display-seq" refines="#illustrator-1">0</meta>
 		<meta property="role" refines="#illustrator-1" scheme="marc:relators">ill</meta>
 		<dc:contributor id="illustrator-2">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#illustrator-2">Anonymous</meta>
-		<meta property="display-seq" refines="#illustrator-2">0</meta>
 		<meta property="role" refines="#illustrator-2" scheme="marc:relators">ill</meta>
 		<dc:contributor id="transcriber-1">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Distributed Proofreaders</meta>
