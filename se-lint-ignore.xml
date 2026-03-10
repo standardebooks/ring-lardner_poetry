@@ -2,6 +2,13 @@
 <se-lint-ignore>
 	<file path="poetry.xhtml">
 		<ignore code="s-023">
+			<line>1601</line>
+			<line>1822</line>
+			<line>2281</line>
+			<line>3521</line>
+			<line>3822</line>
+			<line>4981</line>
+			<line>5041</line>
 			<reason>These are proper nouns, so capitalization shouldn't be modified.</reason>
 		</ignore>
 	</file>
