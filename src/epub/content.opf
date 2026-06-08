@@ -113,8 +113,8 @@
 		<dc:source>https://archive.org/details/sim_the-new-yorker_1925-04-18_1_9</dc:source>
 		<!-- To Producers, Authors, Actors, Etc., pg 4 -->
 		<dc:source>https://archive.org/details/the-atlanta-journal-1929-01-16-1</dc:source>
-		<meta property="se:word-count">12258</meta>
-		<meta property="se:reading-ease.flesch">81.22</meta>
+		<meta property="se:word-count">15819</meta>
+		<meta property="se:reading-ease.flesch">80.92</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ring-lardner_poetry</meta>
 		<dc:creator id="author">Ring Lardner</dc:creator>
 		<meta property="file-as" refines="#author">Lardner, Ring</meta>
